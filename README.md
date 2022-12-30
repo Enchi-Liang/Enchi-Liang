@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning coumputer science in NYCU (or you can call it NCTU)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  michael777400@gmail.com or liang.cs102nycu.edu.tw
+- 📫 How to reach me  michael777400@gmail.com or liang.cs10@nycu.edu.tw
 
 <!---
 Enchi-Liang/Enchi-Liang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
