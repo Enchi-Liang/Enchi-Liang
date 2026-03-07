@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Enchi-Liang
+- 👋 Hi, I’m @Enchi-Liang 梁恩齊
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning coumputer science in NYCU (or you can call it NCTU)
 - 💞️ I’m looking to collaborate on ...
