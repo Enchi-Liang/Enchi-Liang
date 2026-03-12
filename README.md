@@ -1,4 +1,10 @@
 - 👋 Hi, I’m @Enchi-Liang (梁恩齊)
+- 預計會進入交大讀研究所
+- 網工所備42
+- 多公所備23
+- 數據所備8
+- 還沒找到指導教授
+- 幾乎沒有排斥的題目與內容，做甚麼都可以，拜託有教授願意給我一次機會，與我面談。
 - 👀 I’m interested in computer science.
 - 💻 Skills: C++, Python, Verilog
 - 🎓 B.S. in Computer Science - National Yang Ming Chiao Tung University NYCU
