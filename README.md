@@ -4,7 +4,7 @@
 - 🎓 M.S. in Computer Science - National Yang Ming Chiao Tung University NYCU 
 - 🎓 B.S. in Computer Science - National Yang Ming Chiao Tung University NYCU
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  michael777400@gmail.com or liang.cs10@nycu.edu.tw
+- 📫 How to reach me  michael777400@gmail.com or ecliang0518@cs.nycu.edu.tw
 
 <!---
 Enchi-Liang/Enchi-Liang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
